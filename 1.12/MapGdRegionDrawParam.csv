@@ -1,0 +1,86 @@
+ID,Name,disableParam_NT,disableParamReserve1,disableParamReserve2,overrideIVLocalLightScale,
+0,,0,0,[0|0|0],-1
+10,,1,0,[0|0|0],-1
+20,,1,0,[0|0|0],-1
+21,,1,0,[0|0|0],-1
+30,,1,0,[0|0|0],-1
+31,,1,0,[0|0|0],-1
+40,,1,0,[0|0|0],-1
+41,,1,0,[0|0|0],-1
+42,,1,0,[0|0|0],-1
+1000,Stormveil Castle,0,0,[0|0|0],-1
+1001,Chapel of Anticipation,1,0,[0|0|0],-1
+1100,Leyndell- Royal Capital,1,0,[0|0|0],-1
+1105,Leyndell- Ashen Capital,1,0,[0|0|0],-1
+1110,Roundtable Hold,1,0,[0|0|0],-1
+1171,,1,0,[0|0|0],-1
+1201,Ainsel River,1,0,[0|0|0],-1
+1202,Siofra River,1,0,[0|0|0],-1
+1203,Deeproot Depths,1,0,[0|0|0],-1
+1204,Ainsel River Boss,1,0,[0|0|0],-1
+1300,Crumbling Farum Azula,1,0,[0|0|0],-1
+1400,Academy of Raya Lucaria,1,0,[0|0|0],-1
+1500,Miquella's Haligtree,1,0,[0|0|0],-1
+1600,Volcano Manor,1,0,[0|0|0],-1
+1800,Stranded Graveyard,0,0,[0|0|0],-1
+1900,Stone Platform,1,0,[0|0|0],-1
+3000,Tombsward Catacombs,1,0,[0|0|0],-1
+3001,Impaler's Catacombs,1,0,[0|0|0],-1
+3002,Stormfoot Catacombs,0,0,[0|0|0],-1
+3003,Road's End Catacombs,1,0,[0|0|0],-1
+3004,Murkwater Catacombs,0,0,[0|0|0],-1
+3005,Black Knife Catacombs,1,0,[0|0|0],-1
+3006,Cliffbottom Catacombs,1,0,[0|0|0],-1
+3007,Wyndham Catacombs,1,0,[0|0|0],-1
+3008,Sainted Hero's Grave,1,0,[0|0|0],-1
+3009,Gelmir Hero's Grave,1,0,[0|0|0],-1
+3010,Auriza's Hero Grave,1,0,[0|0|0],-1
+3011,Deathtouched Catacombs,1,0,[0|0|0],-1
+3012,Unsightly Catacombs,1,0,[0|0|0],-1
+3013,Auriza Side Tomb,1,0,[0|0|0],-1
+3014,Minor Erdtree Catacombs,1,0,[0|0|0],-1
+3015,Caelid Catacombs,1,0,[0|0|0],-1
+3016,War-Dead Catacombs,1,0,[0|0|0],-1
+3017,Giant-Conquering Hero's Grave,1,0,[0|0|0],-1
+3018,Giants' Mountaintops Catacombs,1,0,[0|0|0],-1
+3100,Murkwater Cave,1,0,[0|0|0],-1
+3101,Earthbore Cave,1,0,[0|0|0],-1
+3102,Tombsward Cave,1,0,[0|0|0],-1
+3103,Groveside Cave,0,0,[0|0|0],-1
+3104,Stillwater Cave,1,0,[0|0|0],-1
+3105,Lakeside Crystal Cave,1,0,[0|0|0],-1
+3106,Academy Crystal Cave,1,0,[0|0|0],-1
+3107,Seethewater Cave,1,0,[0|0|0],-1
+3108,,1,0,[0|0|0],-1
+3109,Volcano Cave,1,0,[0|0|0],-1
+3110,Dragonbarrow Cave,1,0,[0|0|0],-1
+3111,Sellia Hideaway,1,0,[0|0|0],-1
+3112,Cave of the Forlorn,1,0,[0|0|0],-1
+3113,,1,0,[0|0|0],-1
+3114,,1,0,[0|0|0],-1
+3115,Coastal Cave,0,0,[0|0|0],-1
+3117,High Road Cave,1,0,[0|0|0],-1
+3200,Morne Tunnel,1,0,[0|0|0],-1
+3201,Limgrave Tunnels,0,0,[0|0|0],-1
+3202,Raya Lucaria Crystal Tunnel,1,0,[0|0|0],-1
+3203,,1,0,[0|0|0],-1
+3204,Old Altus Tunnel,1,0,[0|0|0],-1
+3205,Altus Tunnel,1,0,[0|0|0],-1
+3206,,1,0,[0|0|0],-1
+3207,Gael Tunnel,1,0,[0|0|0],-1
+3208,Sellia Crystal Tunnel,1,0,[0|0|0],-1
+3209,,1,0,[0|0|0],-1
+3210,,1,0,[0|0|0],-1
+3211,Yelough Anix Tunnel,1,0,[0|0|0],-1
+3212,,1,0,[0|0|0],-1
+3410,Divine Tower of Limgrave,1,0,[0|0|0],-1
+3411,Divine Tower of Liurnia (Carian Study Hall),1,0,[0|0|0],-1
+3412,Divine Tower of West Altus (Sealed Tunnel),1,0,[0|0|0],-1
+3413,Divine Tower of Caelid,1,0,[0|0|0],-1
+3414,Divine Tower of East Altus,1,0,[0|0|0],-1
+3415,Isolated Divine Tower,1,0,[0|0|0],-1
+3416,,1,0,[0|0|0],-1
+3500,Subterranean Shunning-Grounds,1,0,[0|0|0],-1
+3920,Ruin-Strewn Precipice,1,0,[0|0|0],-1
+9901,,0,0,[0|0|0],-1
+9902,,0,0,[0|0|0],-1

@@ -1,0 +1,73 @@
+ID,Name,disableParam_NT,disableParamReserve1,disableParamReserve2,unlockFlagId,invalidFlagId,msgId,
+1,Crouching,0,0,[0|0|0],0,0,1
+2,Guarding,0,0,[0|0|0],0,0,2
+3,Guard Counters,0,0,[0|0|0],0,0,3
+4,Two-Handing Armaments,0,0,[0|0|0],0,0,4
+5,Charge and Jump Attacks,0,0,[0|0|0],0,0,5
+6,Skill,0,0,[0|0|0],0,0,6
+7,Parrying,0,0,[0|0|0],0,0,7
+8,Setting a Target,0,0,[0|0|0],0,0,8
+9,Precision Aiming,0,0,[0|0|0],0,0,9
+10,Equipping Armaments,0,0,[0|0|0],0,0,10
+11,Using Items,0,0,[0|0|0],0,0,11
+12,Using Torches,0,0,[0|0|0],0,0,12
+13,Critical Hits,0,0,[0|0|0],0,0,13
+14,Gestures,0,0,[0|0|0],0,0,14
+15,The Map,0,0,[0|0|0],0,0,15
+16,Spiritspring Jumping,0,0,[0|0|0],0,0,16
+50,Dying and Dropping Runes,0,0,[0|0|0],0,0,50
+52,Summoning Spirits,0,0,[0|0|0],0,0,52
+53,Resting at Sites of Grace,0,0,[0|0|0],0,0,53
+54,Finding Sites of Grace,0,0,[0|0|0],0,0,54
+55,Guidance of Grace,0,0,[0|0|0],0,0,55
+56,Sacred Flasks,0,0,[0|0|0],0,0,56
+57,Fast Travel to Sites of Grace,0,0,[0|0|0],0,0,57
+58,Mounted Attacks,0,0,[0|0|0],0,0,58
+59,No-Riding Areas,0,0,[0|0|0],0,0,59
+60,Item Crafting,1,0,[0|0|0],0,0,60
+61,Container Items,0,0,[0|0|0],0,0,61
+62,Armament Customization,1,0,[0|0|0],0,0,62
+64,Reviving After Dying,0,0,[0|0|0],0,0,64
+65,Equip Load,0,0,[0|0|0],0,0,65
+66,While in Combat,0,0,[0|0|0],0,0,66
+67,Strengthening Spirits,1,0,[0|0|0],0,0,67
+68,Leveling Up,0,0,[0|0|0],0,0,68
+70,Status: Poison,1,0,[0|0|0],0,0,70
+71,Status: Scarlet Rot,1,0,[0|0|0],0,0,71
+72,Status: Blood Loss,1,0,[0|0|0],0,0,72
+73,Status: Frost/Frostbite,1,0,[0|0|0],0,0,73
+74,Status: Sleep,1,0,[0|0|0],0,0,74
+75,Status: Madness,1,0,[0|0|0],0,0,75
+76,Status: Death,1,0,[0|0|0],0,0,76
+77,Poise,0,0,[0|0|0],0,0,77
+80,,0,0,[0|0|0],0,0,80
+81,,0,0,[0|0|0],0,0,81
+100,Cooperator's Objective (Furled Finger),0,0,[0|0|0],0,0,100
+101,Adversary's Objective (Duelist),0,0,[0|0|0],0,0,101
+102,Multipler Maximums,0,0,[0|0|0],0,0,102
+103,Seeing Summon Signs,0,0,[0|0|0],0,0,103
+104,Leaving Co-op Signs,0,0,[0|0|0],0,0,104
+105,Leaving Hostile Signs,0,0,[0|0|0],0,0,105
+106,Invasion,0,0,[0|0|0],0,0,106
+107,Requesting Support,0,0,[0|0|0],0,0,107
+108,Supporting,0,0,[0|0|0],0,0,108
+109,Summoning Pools,0,0,[0|0|0],0,0,109
+110,Group Passwords,0,0,[0|0|0],0,0,110
+111,Multiplayer Passwords,0,0,[0|0|0],0,0,111
+112,Messages,0,0,[0|0|0],0,0,112
+113,Multiplayer Movement Limits,0,0,[0|0|0],0,0,113
+114,Phantoms,0,0,[0|0|0],0,0,114
+115,Bloodstains,0,0,[0|0|0],0,0,115
+116,Support Objective (Hunter),0,0,[0|0|0],0,0,116
+117,Summon Signs,0,0,[0|0|0],0,0,117
+118,Advanced Messages,0,0,[0|0|0],0,0,118
+120,Colosseums,0,0,[0|0|0],0,0,120
+121,Colosseum Ranking,0,0,[0|0|0],0,0,121
+150,Limits of Guarding,0,0,[0|0|0],0,0,150
+151,Stance-Breaking,0,0,[0|0|0],0,0,151
+152,Knowcking Down Mounted Enemies,0,0,[0|0|0],0,0,152
+153,Hardened Foes,1,0,[0|0|0],0,0,153
+200,Teardrop Scarabs,0,0,[0|0|0],0,0,200
+205,,0,0,[0|0|0],0,0,205
+206,,0,0,[0|0|0],0,0,206
+207,,0,0,[0|0|0],0,0,207
